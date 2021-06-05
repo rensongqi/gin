@@ -1,4 +1,4 @@
-module gin-demo
+module gin
 
 go 1.15
 
