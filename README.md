@@ -1,2 +1,2 @@
 # gin
-gin code
+Some learning code about gin.
